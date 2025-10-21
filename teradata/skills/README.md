@@ -1,3 +1,90 @@
+# Complete Teradata ClearScape Analytics Skills
+
+This collection provides comprehensive analytical skills for the full range of Teradata ClearScape Analytics functions, following the Anthropic Claude Skills format.
+
+## Function Categories
+
+### Regression
+
+- **[Teradata GLM Analytics](./td-glm/SKILL.md)**: Comprehensive Generalized Linear Model analytics for regression and classification
+- **[Teradata Linear Regression](./td-linear-regression/SKILL.md)**: Linear regression analysis for continuous target prediction
+- **[Teradata Logistic Regression](./td-logistic-regression/SKILL.md)**: Logistic regression for binary and multinomial classification
+
+### Classification
+
+- **[Teradata Decision Tree Analytics](./td-decision-tree/SKILL.md)**: Decision tree classifier for categorical prediction and rule extraction
+- **[Teradata Decision Forest Analytics](./td-decision-forest/SKILL.md)**: Decision forest ensemble classifier for robust predictions
+- **[Teradata Random Forest Analytics](./td-random-forest/SKILL.md)**: Random forest ensemble classifier for high-accuracy classification
+- **[Teradata Support Vector Machine](./td-svm/SKILL.md)**: Support Vector Machine for linear and non-linear classification
+- **[Teradata Naive Bayes Classifier](./td-naive-bayes/SKILL.md)**: Naive Bayes classifier for probabilistic classification
+
+### Clustering
+
+- **[Teradata K-Means Clustering](./td-kmeans/SKILL.md)**: K-means clustering for customer segmentation and data grouping
+- **[Teradata Hierarchical Clustering](./td-hierarchical-clustering/SKILL.md)**: Hierarchical clustering for nested data grouping
+
+### Preprocessing
+
+- **[Teradata Data Scaling Suite](./td-scale-fit/SKILL.md)**: Data scaling and normalization using TD_ScaleFit and TD_ScaleTransform
+- **[Teradata One-Hot Encoding Suite](./td-onehot-encoding/SKILL.md)**: Categorical variable encoding using TD_OneHotEncodingFit and Transform
+- **[Teradata Column Transformer](./td-column-transformer/SKILL.md)**: Advanced column transformation and feature engineering
+- **[Teradata Simple Imputation](./td-simple-impute/SKILL.md)**: Missing value imputation using TD_SimpleImputeFit
+- **[Teradata Outlier Detection](./td-outlier-detection/SKILL.md)**: Outlier detection and handling using TD_OutlierFit
+- **[Teradata Train-Test Split](./td-train-test-split/SKILL.md)**: Data splitting for model validation using TD_TrainTestSplit
+
+### Evaluation
+
+- **[Teradata Regression Evaluation Suite](./td-regression-evaluator/SKILL.md)**: Comprehensive regression model evaluation using TD_RegressionEvaluator
+- **[Teradata Classification Evaluation Suite](./td-classification-evaluator/SKILL.md)**: Classification model evaluation and metrics calculation
+
+### Text Analytics
+
+- **[Teradata TF-IDF Text Analytics](./td-tfidf/SKILL.md)**: Term Frequency-Inverse Document Frequency for text analysis
+- **[Teradata N-Gram Splitter](./td-ngram-splitter/SKILL.md)**: N-gram generation for text preprocessing
+- **[Teradata Vector Distance Analytics](./td-vector-distance/SKILL.md)**: Vector distance calculations for similarity analysis
+
+### Time Series
+
+- **[Teradata ARIMA Time Series](./td-arima/SKILL.md)**: ARIMA modeling for time series forecasting
+- **[Teradata Time Series Differencing](./td-diff/SKILL.md)**: Time series differencing for stationarity
+- **[Teradata Discrete Fourier Transform](./td-dfft/SKILL.md)**: Fourier transformation for frequency domain analysis
+
+### Advanced Analytics
+
+- **[Teradata Sessionization Analytics](./td-sessionize/SKILL.md)**: Session analysis and user journey tracking
+- **[Teradata nPath Analytics](./td-npath/SKILL.md)**: Path analysis for sequential event patterns
+- **[Teradata Attribution Analytics](./td-attribution/SKILL.md)**: Marketing attribution modeling and analysis
+
+
+## Total Functions Covered: 27
+
+## Categories Include:
+- **Regression**: Linear models, GLM, logistic regression
+- **Classification**: Decision trees, forests, SVM, Naive Bayes
+- **Clustering**: K-means, hierarchical clustering
+- **Preprocessing**: Scaling, encoding, imputation, outlier detection
+- **Evaluation**: Model assessment and validation metrics
+- **Text Analytics**: TF-IDF, n-grams, vector analysis
+- **Time Series**: ARIMA, differencing, Fourier transforms
+- **Advanced Analytics**: Sessionization, path analysis, attribution
+
+## Usage
+
+Each skill folder contains:
+- `SKILL.md` - Complete skill documentation and instructions
+- `scripts/` - SQL scripts for implementation including table analysis
+- `resources/` - Configuration files and templates
+
+## Requirements
+
+- Teradata Vantage with ClearScape Analytics enabled
+- Appropriate database permissions
+- Access to specified analytical functions
+
+---
+
+*These skills provide production-ready analytics workflows using the complete Teradata ClearScape Analytics suite with industry best practices.*
+
 # Comprehensive Teradata UAF (Unbounded Array Framework) Skills
 
 This collection provides specialized analytical skills for Teradata's Unbounded Array Framework (UAF) functions, covering time series analysis, digital signal processing, and model preparation.
