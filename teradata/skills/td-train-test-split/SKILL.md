@@ -1,3 +1,8 @@
+---
+name: td-train-test-split
+description: Data splitting for model validation using TD_TrainTestSplit
+---
+
 # Teradata Train-Test Split
 
 | **Skill Name** | Teradata Train-Test Split |

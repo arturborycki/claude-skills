@@ -1,3 +1,8 @@
+---
+name: td-dfft
+description: Fourier transformation for frequency domain analysis
+---
+
 # Teradata Discrete Fourier Transform
 
 | **Skill Name** | Teradata Discrete Fourier Transform |

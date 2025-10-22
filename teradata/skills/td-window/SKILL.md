@@ -1,3 +1,8 @@
+---
+name: td-window
+description: Signal windowing for spectral analysis and leakage reduction
+---
+
 # Teradata Windowing Functions
 
 | **Skill Name** | Teradata Windowing Functions |

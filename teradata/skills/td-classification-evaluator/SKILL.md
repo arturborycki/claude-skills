@@ -1,3 +1,8 @@
+---
+name: td-classification-evaluator
+description: Classification model evaluation and metrics calculation
+---
+
 # Teradata Classification Evaluation Suite
 
 | **Skill Name** | Teradata Classification Evaluation Suite |

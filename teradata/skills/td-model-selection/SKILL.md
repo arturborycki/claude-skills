@@ -1,3 +1,8 @@
+---
+name: td-model-selection
+description: Automated model selection and comparison for optimal forecasting
+---
+
 # Teradata Automated Model Selection
 
 | **Skill Name** | Teradata Automated Model Selection |

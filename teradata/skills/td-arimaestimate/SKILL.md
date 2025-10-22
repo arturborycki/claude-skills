@@ -1,3 +1,8 @@
+---
+name: td-arimaestimate
+description: ARIMA parameter estimation for seasonal and non-seasonal AR, MA, ARMA, and ARIMA models
+---
+
 # Teradata ARIMA Parameter Estimation
 
 | **Skill Name** | Teradata ARIMA Parameter Estimation |

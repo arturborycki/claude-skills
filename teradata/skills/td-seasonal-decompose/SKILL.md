@@ -1,3 +1,8 @@
+---
+name: td-seasonal-decompose
+description: Seasonal pattern decomposition and analysis
+---
+
 # Teradata Seasonal Decomposition
 
 | **Skill Name** | Teradata Seasonal Decomposition |

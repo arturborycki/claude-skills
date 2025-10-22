@@ -1,3 +1,8 @@
+---
+name: td-simple-impute
+description: Missing value imputation using TD_SimpleImputeFit
+---
+
 # Teradata Simple Imputation
 
 | **Skill Name** | Teradata Simple Imputation |

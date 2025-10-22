@@ -1,3 +1,8 @@
+---
+name: td-hierarchical-clustering
+description: Hierarchical clustering for nested data grouping
+---
+
 # Teradata Hierarchical Clustering
 
 | **Skill Name** | Teradata Hierarchical Clustering |

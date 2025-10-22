@@ -1,3 +1,8 @@
+---
+name: td-attribution
+description: Marketing attribution modeling and analysis
+---
+
 # Teradata Attribution Analytics
 
 | **Skill Name** | Teradata Attribution Analytics |

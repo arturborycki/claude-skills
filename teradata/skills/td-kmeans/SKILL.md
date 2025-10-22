@@ -1,3 +1,8 @@
+---
+name: td-kmeans
+description: K-means clustering for customer segmentation and data grouping
+---
+
 # Teradata K-Means Clustering
 
 | **Skill Name** | Teradata K-Means Clustering |

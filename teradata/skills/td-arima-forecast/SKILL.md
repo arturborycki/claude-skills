@@ -1,3 +1,8 @@
+---
+name: td-arima-forecast
+description: ARIMA-based time series forecasting for trend and seasonal predictions
+---
+
 # Teradata ARIMA Forecasting
 
 | **Skill Name** | Teradata ARIMA Forecasting |

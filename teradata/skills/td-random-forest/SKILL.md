@@ -1,3 +1,8 @@
+---
+name: td-random-forest
+description: Random forest ensemble classifier for high-accuracy classification
+---
+
 # Teradata Random Forest Analytics
 
 | **Skill Name** | Teradata Random Forest Analytics |

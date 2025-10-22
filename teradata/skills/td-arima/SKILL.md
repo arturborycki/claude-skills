@@ -1,3 +1,8 @@
+---
+name: td-arima
+description: ARIMA modeling for time series forecasting
+---
+
 # Teradata ARIMA Time Series
 
 | **Skill Name** | Teradata ARIMA Time Series |

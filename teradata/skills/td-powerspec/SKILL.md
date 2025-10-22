@@ -1,3 +1,8 @@
+---
+name: td-powerspec
+description: Power spectrum analysis for frequency domain insights and periodicity detection
+---
+
 # Teradata Power Spectral Density
 
 | **Skill Name** | Teradata Power Spectral Density |

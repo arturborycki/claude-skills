@@ -1,3 +1,8 @@
+---
+name: td-smoothing
+description: Signal smoothing and noise reduction techniques
+---
+
 # Teradata Signal Smoothing
 
 | **Skill Name** | Teradata Signal Smoothing |

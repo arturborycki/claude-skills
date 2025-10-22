@@ -1,3 +1,8 @@
+---
+name: td-regression-evaluator
+description: Comprehensive regression model evaluation using TD_RegressionEvaluator
+---
+
 # Teradata Regression Evaluation Suite
 
 | **Skill Name** | Teradata Regression Evaluation Suite |

@@ -1,3 +1,8 @@
+---
+name: td-ifft
+description: Inverse Fast Fourier Transform for time domain reconstruction
+---
+
 # Teradata Inverse Fast Fourier Transform
 
 | **Skill Name** | Teradata Inverse Fast Fourier Transform |

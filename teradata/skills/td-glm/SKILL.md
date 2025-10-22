@@ -1,3 +1,8 @@
+---
+name: td-glm
+description: Comprehensive Generalized Linear Model analytics for regression and classification
+---
+
 # Teradata GLM Analytics
 
 | **Skill Name** | Teradata GLM Analytics |

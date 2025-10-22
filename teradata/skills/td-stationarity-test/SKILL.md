@@ -1,3 +1,8 @@
+---
+name: td-stationarity-test
+description: Statistical tests for time series stationarity (ADF, KPSS, PP tests)
+---
+
 # Teradata Stationarity Testing
 
 | **Skill Name** | Teradata Stationarity Testing |

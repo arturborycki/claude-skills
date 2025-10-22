@@ -1,3 +1,8 @@
+---
+name: td-tfidf
+description: Term Frequency-Inverse Document Frequency for text analysis
+---
+
 # Teradata TF-IDF Text Analytics
 
 | **Skill Name** | Teradata TF-IDF Text Analytics |

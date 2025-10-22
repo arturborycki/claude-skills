@@ -1,3 +1,8 @@
+---
+name: td-change-point
+description: Change point detection in time series for structural breaks
+---
+
 # Teradata Change Point Detection
 
 | **Skill Name** | Teradata Change Point Detection |

@@ -1,3 +1,8 @@
+---
+name: td-filter
+description: Digital filtering for noise reduction and signal enhancement
+---
+
 # Teradata Digital Signal Filtering
 
 | **Skill Name** | Teradata Digital Signal Filtering |

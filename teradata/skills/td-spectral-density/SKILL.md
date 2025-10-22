@@ -1,3 +1,8 @@
+---
+name: td-spectral-density
+description: Power spectral density estimation for frequency content analysis
+---
+
 # Teradata Spectral Density Analysis
 
 | **Skill Name** | Teradata Spectral Density Analysis |

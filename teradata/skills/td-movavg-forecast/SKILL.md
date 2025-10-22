@@ -1,3 +1,8 @@
+---
+name: td-movavg-forecast
+description: Moving average based forecasting for smoothed predictions
+---
+
 # Teradata Moving Average Forecasting
 
 | **Skill Name** | Teradata Moving Average Forecasting |

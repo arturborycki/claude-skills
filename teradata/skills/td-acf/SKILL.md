@@ -1,3 +1,8 @@
+---
+name: td-acf
+description: Auto-correlation analysis for time series dependency and pattern detection
+---
+
 # Teradata Auto-Correlation Function
 
 | **Skill Name** | Teradata Auto-Correlation Function |

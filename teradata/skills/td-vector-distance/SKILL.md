@@ -1,3 +1,8 @@
+---
+name: td-vector-distance
+description: Vector distance calculations for similarity analysis
+---
+
 # Teradata Vector Distance Analytics
 
 | **Skill Name** | Teradata Vector Distance Analytics |

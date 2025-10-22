@@ -1,3 +1,8 @@
+---
+name: td-decision-forest
+description: Decision forest ensemble classifier for robust predictions
+---
+
 # Teradata Decision Forest Analytics
 
 | **Skill Name** | Teradata Decision Forest Analytics |

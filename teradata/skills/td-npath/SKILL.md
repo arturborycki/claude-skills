@@ -1,3 +1,8 @@
+---
+name: td-npath
+description: Path analysis for sequential event patterns
+---
+
 # Teradata nPath Analytics
 
 | **Skill Name** | Teradata nPath Analytics |

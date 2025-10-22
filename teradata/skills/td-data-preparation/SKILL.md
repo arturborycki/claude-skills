@@ -1,3 +1,8 @@
+---
+name: td-data-preparation
+description: UAF-specific data preparation and validation for time series analysis
+---
+
 # Teradata UAF Data Preparation
 
 | **Skill Name** | Teradata UAF Data Preparation |

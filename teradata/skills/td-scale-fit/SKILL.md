@@ -1,3 +1,8 @@
+---
+name: td-scale-fit
+description: Data scaling and normalization using TD_ScaleFit and TD_ScaleTransform
+---
+
 # Teradata Data Scaling Suite
 
 | **Skill Name** | Teradata Data Scaling Suite |

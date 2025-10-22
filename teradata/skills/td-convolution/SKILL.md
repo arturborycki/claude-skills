@@ -1,3 +1,8 @@
+---
+name: td-convolution
+description: Convolution operations for signal processing and filtering
+---
+
 # Teradata Signal Convolution
 
 | **Skill Name** | Teradata Signal Convolution |

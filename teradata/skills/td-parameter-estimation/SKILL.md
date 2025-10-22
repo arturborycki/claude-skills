@@ -1,3 +1,8 @@
+---
+name: td-parameter-estimation
+description: Advanced parameter estimation and optimization for UAF models
+---
+
 # Teradata Parameter Estimation Suite
 
 | **Skill Name** | Teradata Parameter Estimation Suite |

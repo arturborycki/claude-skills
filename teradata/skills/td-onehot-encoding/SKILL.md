@@ -1,3 +1,8 @@
+---
+name: td-onehot-encoding
+description: Categorical variable encoding using TD_OneHotEncodingFit and Transform
+---
+
 # Teradata One-Hot Encoding Suite
 
 | **Skill Name** | Teradata One-Hot Encoding Suite |

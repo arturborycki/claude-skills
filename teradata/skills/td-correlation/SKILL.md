@@ -1,3 +1,8 @@
+---
+name: td-correlation
+description: Signal correlation analysis for similarity and delay detection
+---
+
 # Teradata Signal Correlation
 
 | **Skill Name** | Teradata Signal Correlation |

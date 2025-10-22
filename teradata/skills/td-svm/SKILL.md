@@ -1,3 +1,8 @@
+---
+name: td-svm
+description: Support Vector Machine for linear and non-linear classification
+---
+
 # Teradata Support Vector Machine
 
 | **Skill Name** | Teradata Support Vector Machine |

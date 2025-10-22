@@ -1,3 +1,8 @@
+---
+name: td-linear-regression
+description: Linear regression analysis for continuous target prediction
+---
+
 # Teradata Linear Regression
 
 | **Skill Name** | Teradata Linear Regression |

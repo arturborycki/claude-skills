@@ -1,3 +1,8 @@
+---
+name: td-decision-tree
+description: Decision tree classifier for categorical prediction and rule extraction
+---
+
 # Teradata Decision Tree Analytics
 
 | **Skill Name** | Teradata Decision Tree Analytics |

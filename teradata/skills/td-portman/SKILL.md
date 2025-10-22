@@ -1,3 +1,8 @@
+---
+name: td-portman
+description: Ljung-Box portmanteau tests for model diagnostics and residual analysis
+---
+
 # Teradata Ljung-Box Test
 
 | **Skill Name** | Teradata Ljung-Box Test |

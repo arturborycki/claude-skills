@@ -1,3 +1,8 @@
+---
+name: td-logistic-regression
+description: Logistic regression for binary and multinomial classification
+---
+
 # Teradata Logistic Regression
 
 | **Skill Name** | Teradata Logistic Regression |

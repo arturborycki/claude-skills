@@ -1,3 +1,8 @@
+---
+name: td-outlier-detection
+description: Outlier detection and handling using TD_OutlierFit
+---
+
 # Teradata Outlier Detection
 
 | **Skill Name** | Teradata Outlier Detection |

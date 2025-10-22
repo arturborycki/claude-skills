@@ -1,3 +1,8 @@
+---
+name: td-diff
+description: Time series differencing for stationarity and trend removal
+---
+
 # Teradata Time Series Differencing
 
 | **Skill Name** | Teradata Time Series Differencing |

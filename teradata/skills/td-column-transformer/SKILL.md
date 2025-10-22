@@ -1,3 +1,8 @@
+---
+name: td-column-transformer
+description: Advanced column transformation and feature engineering
+---
+
 # Teradata Column Transformer
 
 | **Skill Name** | Teradata Column Transformer |

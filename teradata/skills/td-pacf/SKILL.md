@@ -1,3 +1,8 @@
+---
+name: td-pacf
+description: Partial auto-correlation analysis for direct lag relationships
+---
+
 # Teradata Partial Auto-Correlation Function
 
 | **Skill Name** | Teradata Partial Auto-Correlation Function |

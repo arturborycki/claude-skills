@@ -1,3 +1,8 @@
+---
+name: td-detrend
+description: Signal detrending for baseline correction and trend removal
+---
+
 # Teradata Signal Detrending
 
 | **Skill Name** | Teradata Signal Detrending |

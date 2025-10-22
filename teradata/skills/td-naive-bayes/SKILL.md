@@ -1,3 +1,8 @@
+---
+name: td-naive-bayes
+description: Naive Bayes classifier for probabilistic classification
+---
+
 # Teradata Naive Bayes Classifier
 
 | **Skill Name** | Teradata Naive Bayes Classifier |

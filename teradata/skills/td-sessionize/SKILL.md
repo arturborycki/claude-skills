@@ -1,3 +1,8 @@
+---
+name: td-sessionize
+description: Session analysis and user journey tracking
+---
+
 # Teradata Sessionization Analytics
 
 | **Skill Name** | Teradata Sessionization Analytics |

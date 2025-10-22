@@ -1,3 +1,8 @@
+---
+name: td-resample
+description: Signal resampling and interpolation for rate conversion
+---
+
 # Teradata Signal Resampling
 
 | **Skill Name** | Teradata Signal Resampling |

@@ -1,3 +1,8 @@
+---
+name: td-plot
+description: Time series visualization and diagnostic plotting utilities
+---
+
 # Teradata Time Series Plotting
 
 | **Skill Name** | Teradata Time Series Plotting |

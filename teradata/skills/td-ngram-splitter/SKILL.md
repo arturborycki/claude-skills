@@ -1,3 +1,8 @@
+---
+name: td-ngram-splitter
+description: N-gram generation for text preprocessing
+---
+
 # Teradata N-Gram Splitter
 
 | **Skill Name** | Teradata N-Gram Splitter |

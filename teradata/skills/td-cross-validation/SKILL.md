@@ -1,3 +1,8 @@
+---
+name: td-cross-validation
+description: Time series specific cross-validation techniques for model validation
+---
+
 # Teradata Time Series Cross-Validation
 
 | **Skill Name** | Teradata Time Series Cross-Validation |

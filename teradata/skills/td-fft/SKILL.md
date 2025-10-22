@@ -1,3 +1,8 @@
+---
+name: td-fft
+description: Fast Fourier Transform for frequency domain analysis and spectral decomposition
+---
+
 # Teradata Fast Fourier Transform
 
 | **Skill Name** | Teradata Fast Fourier Transform |
